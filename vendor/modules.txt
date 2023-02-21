@@ -1,0 +1,30 @@
+# github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d
+## explicit; go 1.12
+# github.com/cespare/xxhash/v2 v2.1.2
+## explicit; go 1.11
+# github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f
+## explicit
+# github.com/esap/wechat v1.1.2
+## explicit; go 1.12
+github.com/esap/wechat
+github.com/esap/wechat/util
+# github.com/fatih/structs v1.1.0
+## explicit
+# github.com/go-redis/redis/v8 v8.11.5
+## explicit; go 1.17
+# github.com/silenceper/wechat/v2 v2.1.4
+## explicit; go 1.16
+# github.com/sirupsen/logrus v1.9.0
+## explicit; go 1.13
+# github.com/spf13/cast v1.4.1
+## explicit
+# github.com/tidwall/gjson v1.14.1
+## explicit; go 1.12
+# github.com/tidwall/match v1.1.1
+## explicit; go 1.15
+# github.com/tidwall/pretty v1.2.0
+## explicit; go 1.16
+# golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
+## explicit; go 1.17
+# golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
+## explicit; go 1.17
